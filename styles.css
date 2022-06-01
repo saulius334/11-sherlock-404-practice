@@ -1,0 +1,20 @@
+body {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: #EAEBED;
+
+}
+main {
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+main > img {
+height: 360px;
+}
+.container {
+text-align: center;
+}
